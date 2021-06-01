@@ -1,4 +1,7 @@
 # <h1 align="center"><b>Hit The Android</b></h1>
+<video width="320" height="240" controls>
+  <source src="demo.mp4" type="video/mp4">
+</video>
 
 ## About the Project
 The project has been carried out by <a href = "https://github.com/Parmo7"> Parminder Saini </a>, as part of the second-year module "Computer Graphics", using OpenGL.
