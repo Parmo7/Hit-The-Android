@@ -1,10 +1,11 @@
 # <h1 align="center"><b>Hit The Android</b></h1>
-<video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+<p align="center">
+   <img src="https://media.discordapp.net/attachments/776491759358181380/849358297421316146/2021-06-01_20_45_16-Hit_the_Android.jpg" alt="Preview" height="390">
+</p>
 
 ## About the Project
 The project has been carried out by <a href = "https://github.com/Parmo7"> Parminder Saini </a>, as part of the second-year module "Computer Graphics", using OpenGL.
+{Please check file "demo.mp4" for a brief demonstrational video}
 
 ### The Task
 The task is to use the OpenGL graphics library in Java in order to create a scene with some simple 3D animations and at least one advanced animation around game interfaces. 
