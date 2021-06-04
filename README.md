@@ -4,8 +4,7 @@
 </p>
 
 ## About the Project
-The project has been carried out by <a href = "https://github.com/Parmo7"> Parminder Saini </a>, as part of the second-year module "Computer Graphics", using OpenGL.
-<br>{Please check file "demo.mp4" for a brief demonstrational video}
+The project has been carried out by <a href = "https://github.com/Parmo7"> Parminder Saini </a>, as part of the second-year module "Computer Graphics", using OpenGL. Please check file ["demo.mp4"](demo.mp4) for a brief demonstrational video
 
 ### The Task
 The task is to use the OpenGL graphics library in Java in order to create a scene with some simple 3D animations and at least one advanced animation around game interfaces. 
